@@ -1,9 +1,6 @@
-![Banner README](/assets/BannerREADME.gif)
-<img align="center" alt="GIF" height="250px" src="https://github.com/pablohema/pablohema/blob/main/assets/BannerREADME.gif" />
+<img align="center" alt="GIF" height="200px" src="https://github.com/pablohema/pablohema/blob/main/assets/BannerREADME.gif" />
 ### Hi there 👋
 
-<!--
-**pablohema/pablohema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
