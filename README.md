@@ -1,3 +1,5 @@
+![Banner README](/assets/BannerREADME.gif)
+
 ### Hi there 👋
 
 <!--
