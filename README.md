@@ -1,5 +1,5 @@
 ![Banner README](/assets/BannerREADME.gif)
-
+<img align="center" alt="GIF" height="250px" src="https://github.com/pablohema/pablohema/blob/main/assets/BannerREADME.gif" />
 ### Hi there 👋
 
 <!--
