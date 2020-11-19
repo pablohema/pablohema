@@ -1,5 +1,7 @@
-<img align="center" alt="GIF" height="200px" src="https://github.com/pablohema/pablohema/blob/main/assets/BannerREADME.gif" />
-### Hi there 👋
+<img align="center" alt="GIF" src="https://github.com/pablohema/pablohema/blob/main/assets/BannerREADME.gif" />
+
+
+###Hi there 👋
 
 
 Here are some ideas to get you started:
