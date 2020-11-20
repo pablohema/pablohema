@@ -1,10 +1,11 @@
 <img align="center" alt="GIF" src="https://github.com/pablohema/pablohema/blob/main/assets/BannerREADME.gif" />
 
 
-###Hi there 👋
+### Hola gente 👋
 
+I'm a mechanical engineer who lives in Croatia and I'm learning how to program Android apps.
+Recently 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
