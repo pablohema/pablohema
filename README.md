@@ -14,8 +14,7 @@ If you do not mind, I will use this *README* to write down all my journey.
 #### <div align="center"> My learning path to become a `self-taught Android Developer`. 👨‍🎓 </div>
 
 #### - Courses ⚙️📲
-1. [Jetbrains Academy](https://hyperskill.org/tracks/3) - _Kotlin developer path_ 
-<img src="assets/kotlinEmoji.svg" data-canonical-src="assets/kotlinEmoji.svg" width="16" height="16" />
+1. [Jetbrains Academy](https://hyperskill.org/tracks/3) - _Kotlin developer path_ <img src="assets/kotlinEmoji.svg" data-canonical-src="assets/kotlinEmoji.svg" width="16" height="16" />
 
    * EASY DIFFICULTY
         1. [x] Simply chatty bot
@@ -39,7 +38,7 @@ If you do not mind, I will use this *README* to write down all my journey.
 
 2. [Kotlin Bootcamp for Programmers](https://developer.android.com/courses/kotlin-bootcamp/overview) - _Google Developers Codelabs_ <img src="assets/googleLogo.png" data-canonical-src="assets/kotlinEmoji.svg" width="16" height="16" />   
     1. [x] Lesson 1: Get started
-    2. [ ] Lesson 2: Kotlin basics
+    2. [x] Lesson 2: Kotlin basics
     3. [ ] Lesson 3: Functions
     4. [ ] Lesson 4: Classes and objects
     5. [ ] Lesson 5.1: Extensions
