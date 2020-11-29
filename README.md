@@ -39,7 +39,7 @@ If you do not mind, I will use this *README* to write down all my journey.
 2. [Kotlin Bootcamp for Programmers](https://developer.android.com/courses/kotlin-bootcamp/overview) - _Google Developers Codelabs_ <img src="assets/googleLogo.png" data-canonical-src="assets/kotlinEmoji.svg" width="16" height="16" />   
     1. [x] Lesson 1: Get started
     2. [x] Lesson 2: Kotlin basics
-    3. [ ] Lesson 3: Functions
+    3. [x] Lesson 3: Functions
     4. [ ] Lesson 4: Classes and objects
     5. [ ] Lesson 5.1: Extensions
     6. [ ] Lesson 5.2: Generics
