@@ -42,8 +42,8 @@ If you do not mind, I will use this *README* to write down all my journey.
     3. [x] Lesson 3: Functions
     4. [x] Lesson 4: Classes and objects
     5. [x] Lesson 5.1: Extensions
-    6. [ ] Lesson 5.2: Generics
-    7. [ ] Lesson 6: Functional manipulation
+    6. [x] Lesson 5.2: Generics
+    7. [x] Lesson 6: Functional manipulation
 
 
 <div align="center">...WIP 👷🏻...</div>
