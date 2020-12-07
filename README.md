@@ -44,6 +44,18 @@ If you do not mind, I will use this *README* to write down all my journey.
     5. [x] Lesson 5.1: Extensions
     6. [x] Lesson 5.2: Generics
     7. [x] Lesson 6: Functional manipulation
+    
+3. [Android Kotlin Fundamentals](https://developer.android.com/courses/kotlin-android-fundamentals/overview) - _Google Developers Codelabs_ <img src="assets/googleLogo.png" data-canonical-src="assets/kotlinEmoji.svg" width="16" height="16" />   
+    1. [x] Lesson 1: Build your first app
+    2. [ ] Lesson 2: Layouts
+    3. [ ] Lesson 3: Navigation
+    4. [ ] Lesson 4: Activity and fragment lifecycles
+    5. [ ] Lesson 5: Architecture components
+    6. [ ] Lesson 6: Room database and coroutines
+    7. [ ] Lesson 7: RecyclerView
+    8. [ ] Lesson 8: Connecting to the internet
+    9. [ ] Lesson 9: Repository
+    10. [ ] Lesson 10: Designing for everyone
 
 
 <div align="center">...WIP 👷🏻...</div>
