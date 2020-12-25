@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Smart_Calculator.iml" filepath="$PROJECT_DIR$/.idea/modules/Smart_Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Letters/Smart_Calculator.Problems-Letters.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Letters/Smart_Calculator.Problems-Letters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Letters/Smart_Calculator.Problems-Letters.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Letters/Smart_Calculator.Problems-Letters.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Letters/Smart_Calculator.Problems-Letters.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Letters/Smart_Calculator.Problems-Letters.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Most common/Smart_Calculator.Problems-Most_common.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Most common/Smart_Calculator.Problems-Most_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Most common/Smart_Calculator.Problems-Most_common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Most common/Smart_Calculator.Problems-Most_common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Most common/Smart_Calculator.Problems-Most_common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Most common/Smart_Calculator.Problems-Most_common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The percentage of G and C characters/Smart_Calculator.Problems-The_percentage_of_G_and_C_characters.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The percentage of G and C characters/Smart_Calculator.Problems-The_percentage_of_G_and_C_characters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The percentage of G and C characters/Smart_Calculator.Problems-The_percentage_of_G_and_C_characters.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The percentage of G and C characters/Smart_Calculator.Problems-The_percentage_of_G_and_C_characters.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The percentage of G and C characters/Smart_Calculator.Problems-The_percentage_of_G_and_C_characters.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The percentage of G and C characters/Smart_Calculator.Problems-The_percentage_of_G_and_C_characters.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Smart Calculator/task/Smart_Calculator.Smart_Calculator-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Smart Calculator/task/Smart_Calculator.Smart_Calculator-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Smart Calculator/task/Smart_Calculator.Smart_Calculator-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Smart Calculator/task/Smart_Calculator.Smart_Calculator-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Smart Calculator/task/Smart_Calculator.Smart_Calculator-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Smart Calculator/task/Smart_Calculator.Smart_Calculator-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Smart_Calculator.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Smart_Calculator.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Smart_Calculator.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Smart_Calculator.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Smart_Calculator.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Smart_Calculator.util.test.iml" />
+    </modules>
+  </component>
+</project>

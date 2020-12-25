@@ -1,0 +1,13 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: // write the EspressoMachine class here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10751
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/10751">JetBrains
+    Academy</a></html>
+  time: Tue, 06 Oct 2020 09:25:35 UTC
+record: -1

@@ -1,0 +1,25 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    class Fabric(var color: String = "grey") {
+        var pattern: String = "none"
+        var patternColor: String = "none"
+        init {
+            println("$color fabric is created")
+        }
+
+        constructor() : this() {
+            println("the fabric is dyed" + "")
+            println("" + "pattern is printed on the fabric")
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10749
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/10749">JetBrains
+    Academy</a></html>
+  time: Tue, 06 Oct 2020 10:06:17 UTC
+record: -1
