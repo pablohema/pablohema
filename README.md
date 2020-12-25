@@ -17,8 +17,7 @@ If you do not mind, I will use this *README* to write down all my journey.
 1. [Jetbrains Academy](https://hyperskill.org/tracks/3) - _Kotlin developer path_ <img src="assets/kotlinEmoji.svg" data-canonical-src="assets/kotlinEmoji.svg" width="16" height="16" />
 
    * EASY DIFFICULTY
-        1. [x] [Simply chatty bot](https://github.com/pablohema/pablohema/tree/main/JetBrainsAcademy/SimplyChattyBot)
-        2. [x] Simply search engine - _Done in website_
+        1. [x] [Simple chatty bot](https://github.com/pablohema/pablohema/tree/main/JetBrainsAcademy/SimpleChattyBot)
 
    * MEDIUM DIFFICULTY
         1. [x] [Smart calculator](https://github.com/pablohema/pablohema/tree/main/JetBrainsAcademy/SmartCalculator)
