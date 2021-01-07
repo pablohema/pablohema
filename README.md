@@ -44,7 +44,7 @@ If you do not mind, I will use this *README* to write down all my journey.
     
 3. [Android Kotlin Fundamentals](https://developer.android.com/courses/kotlin-android-fundamentals/overview) - _Google Developers Codelabs_ <img src="assets/googleLogo.png" data-canonical-src="assets/kotlinEmoji.svg" width="16" height="16" />   
     1. [x] [Lesson 1: Build your first app](https://github.com/pablohema/pablohema/tree/main/AndroidKotlinFundamentals/LessonOneBuildYourFirstApp)
-    2. [ ] Lesson 2: Layouts
+    2. [x] [Lesson 2: Layouts](https://github.com/pablohema/pablohema/tree/main/AndroidKotlinFundamentals/LessonTwoLayouts)
     3. [ ] Lesson 3: Navigation
     4. [ ] Lesson 4: Activity and fragment lifecycles
     5. [ ] Lesson 5: Architecture components
