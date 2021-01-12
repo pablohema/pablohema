@@ -43,9 +43,9 @@ If you do not mind, I will use this *README* to write down all my journey.
     7. [x] Lesson 6: Functional manipulation
     
 3. [Android Kotlin Fundamentals](https://developer.android.com/courses/kotlin-android-fundamentals/overview) - _Google Developers Codelabs_ <img src="assets/googleLogo.png" data-canonical-src="assets/kotlinEmoji.svg" width="16" height="16" />   
-    1. [x] [Lesson 1: Build your first app](https://github.com/pablohema/pablohema/tree/main/AndroidKotlinFundamentals/LessonOneBuildYourFirstApp)
-    2. [x] [Lesson 2: Layouts](https://github.com/pablohema/pablohema/tree/main/AndroidKotlinFundamentals/LessonTwoLayouts)
-    3. [ ] Lesson 3: Navigation
+    1. [x] [Lesson 1: Build your first app](https://github.com/pablohema/pablohema/tree/main/AndroidKotlinFundamentals/1LessonBuildYourFirstApp)
+    2. [x] [Lesson 2: Layouts](https://github.com/pablohema/pablohema/tree/main/AndroidKotlinFundamentals/2LessonLayouts)
+    3. [x] [Lesson 3: Navigation](https://github.com/pablohema/pablohema/tree/main/AndroidKotlinFundamentals/3LessonNavigation)
     4. [ ] Lesson 4: Activity and fragment lifecycles
     5. [ ] Lesson 5: Architecture components
     6. [ ] Lesson 6: Room database and coroutines
