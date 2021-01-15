@@ -46,7 +46,7 @@ If you do not mind, I will use this *README* to write down all my journey.
     1. [x] [Lesson 1: Build your first app](https://github.com/pablohema/pablohema/tree/main/AndroidKotlinFundamentals/1LessonBuildYourFirstApp)
     2. [x] [Lesson 2: Layouts](https://github.com/pablohema/pablohema/tree/main/AndroidKotlinFundamentals/2LessonLayouts)
     3. [x] [Lesson 3: Navigation](https://github.com/pablohema/pablohema/tree/main/AndroidKotlinFundamentals/3LessonNavigation)
-    4. [ ] Lesson 4: Activity and fragment lifecycles
+    4. [x] [Lesson 4: Activity and fragment lifecycles](https://github.com/pablohema/pablohema/tree/main/4LessonActivityAndFragmentLifecycles)
     5. [ ] Lesson 5: Architecture components
     6. [ ] Lesson 6: Room database and coroutines
     7. [ ] Lesson 7: RecyclerView
