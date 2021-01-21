@@ -48,7 +48,7 @@ If you do not mind, I will use this *README* to write down all my journey.
     3. [x] [Lesson 3: Navigation](https://github.com/pablohema/pablohema/tree/main/AndroidKotlinFundamentals/3LessonNavigation)
     4. [x] [Lesson 4: Activity and fragment lifecycles](https://github.com/pablohema/pablohema/tree/main/4LessonAFL)
     5. [x] [Lesson 5: Architecture components](https://github.com/pablohema/pablohema/tree/main/5LessonArchitectureComp)
-    6. [ ] Lesson 6: Room database and coroutines
+    6. [x] [Lesson 6: Room database and coroutines](https://github.com/pablohema/pablohema/tree/main/6LessonRoomCoroutines)
     7. [ ] Lesson 7: RecyclerView
     8. [ ] Lesson 8: Connecting to the internet
     9. [ ] Lesson 9: Repository
