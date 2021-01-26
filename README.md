@@ -50,7 +50,7 @@ If you do not mind, I will use this *README* to write down all my journey.
     5. [x] [Lesson 5: Architecture components](https://github.com/pablohema/pablohema/tree/main/5LessonArchitectureComp)
     6. [x] [Lesson 6: Room database and coroutines](https://github.com/pablohema/pablohema/tree/main/6LessonRoomCoroutines)
     7. [x] [Lesson 7: RecyclerView]((https://github.com/pablohema/pablohema/tree/main/7LessonRecyclerView)
-    8. [ ] Lesson 8: Connecting to the internet
+    8. [x] [Lesson 8: Connecting to the internet](https://github.com/pablohema/pablohema/tree/main/8LessonInternet)
     9. [ ] Lesson 9: Repository
     10. [ ] Lesson 10: Designing for everyone
     11. [x] [*Extra: Use Kotlin Coroutines in your Android App](https://github.com/pablohema/pablohema/tree/main/Extra_UseCoroutinesInApp)  
