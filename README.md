@@ -53,7 +53,8 @@ If you do not mind, I will use this *README* to write down all my journey.
     8. [x] [Lesson 8: Connecting to the internet](https://github.com/pablohema/pablohema/tree/main/8LessonInternet)
     9. [x] [Lesson 9: Repository](https://github.com/pablohema/pablohema/tree/main/9LessonRepository)
     10. [ ] Lesson 10: Designing for everyone
-    11. [x] [*Extra: Use Kotlin Coroutines in your Android App](https://github.com/pablohema/pablohema/tree/main/Extra_UseCoroutinesInApp)  
+    11. [x] [*Extra: Use Kotlin Coroutines in your Android App](https://github.com/pablohema/pablohema/tree/main/Extra_UseCoroutinesInApp)
+    12. [x] [*Extra: Android Room with a View - Kotlin](https://github.com/pablohema/pablohema/tree/main/Extra_RoomWithView)  
 
 
 <div align="center">...WIP 👷🏻...</div>
