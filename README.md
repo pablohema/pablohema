@@ -3,7 +3,7 @@
 
 # Hola gente 👋
 <img align="right" width="150" height="170" src="assets/AndroidHello.gif">
-Nice to meet you. My name is Pablo. I am a mechanical design engineer. Computer programming is one of my biggest hobbies (the others being 3D CAD 📐, learning new cultures and meeting friends).
+Nice to meet you. My name is Pablo.
 
 Currently I am very interested in Android development (both the technical aspect and the design aspect). My goal is to be able to enjoy and develop my own Android apps while I step up in the game . 
 
@@ -52,9 +52,16 @@ If you do not mind, I will use this *README* to write down all my journey.
     7. [x] [Lesson 7: RecyclerView]((https://github.com/pablohema/pablohema/tree/main/7LessonRecyclerView)
     8. [x] [Lesson 8: Connecting to the internet](https://github.com/pablohema/pablohema/tree/main/8LessonInternet)
     9. [x] [Lesson 9: Repository](https://github.com/pablohema/pablohema/tree/main/9LessonRepository)
-    10. [ ] Lesson 10: Designing for everyone
+    10. [x] [Lesson 10: Designing for everyone](https://github.com/pablohema/pablohema/tree/main/10LessonDesigning)
     11. [x] [*Extra: Use Kotlin Coroutines in your Android App](https://github.com/pablohema/pablohema/tree/main/Extra_UseCoroutinesInApp)
-    12. [x] [*Extra: Android Room with a View - Kotlin](https://github.com/pablohema/pablohema/tree/main/Extra_RoomWithView)  
+    12. [x] [*Extra: Android Room with a View - Kotlin](https://github.com/pablohema/pablohema/tree/main/Extra_RoomWithView)
+
+4. [Advanced Android in Kotlin](https://developer.android.com/courses/kotlin-android-advanced/overview) - _Google Developers Codelabs_ <img src="assets/googleLogo.png" data-canonical-src="assets/kotlinEmoji.svg" width="16" height="16" />
+    1. [] Lesson 1: Notificacions
+    2. [] Lesson 2: Advanced Graphics
+    3. [] Lesson 3: Animation
+    4. [] Lesson 4: Geo
+    5. [] Lesson 5: Testing and Dependency Injection
 
 
 <div align="center">...WIP 👷🏻...</div>
