@@ -49,7 +49,7 @@ If you do not mind, I will use this *README* to write down all my journey.
     4. [x] [Lesson 4: Activity and fragment lifecycles](https://github.com/pablohema/pablohema/tree/main/4LessonAFL)
     5. [x] [Lesson 5: Architecture components](https://github.com/pablohema/pablohema/tree/main/5LessonArchitectureComp)
     6. [x] [Lesson 6: Room database and coroutines](https://github.com/pablohema/pablohema/tree/main/6LessonRoomCoroutines)
-    7. [x] [Lesson 7: RecyclerView]((https://github.com/pablohema/pablohema/tree/main/7LessonRecyclerView)
+    7. [x] [Lesson 7: RecyclerView](https://github.com/pablohema/pablohema/tree/main/7LessonRecyclerView)
     8. [x] [Lesson 8: Connecting to the internet](https://github.com/pablohema/pablohema/tree/main/8LessonInternet)
     9. [x] [Lesson 9: Repository](https://github.com/pablohema/pablohema/tree/main/9LessonRepository)
     10. [x] [Lesson 10: Designing for everyone](https://github.com/pablohema/pablohema/tree/main/10LessonDesigning)
@@ -62,6 +62,9 @@ If you do not mind, I will use this *README* to write down all my journey.
     3. [] Lesson 3: Animation
     4. [] Lesson 4: Geo
     5. [] Lesson 5: Testing and Dependency Injection
+
+5. [To-Do App & Clean Architecture](https://www.udemy.com/course/to-do-app-clean-architecture-android-development-kotlin)
+    1. [x] [My ToDo APP](https://github.com/pablohema/ToDo_App)
 
 
 <div align="center">...WIP 👷🏻...</div>
