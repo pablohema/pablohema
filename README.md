@@ -59,7 +59,7 @@ If you do not mind, I will use this *README* to write down all my journey.
 4. [Advanced Android in Kotlin](https://developer.android.com/courses/kotlin-android-advanced/overview) - _Google Developers Codelabs_ <img src="assets/googleLogo.png" data-canonical-src="assets/kotlinEmoji.svg" width="16" height="16" />
     1. [] Lesson 1: Notificacions
     2. [] Lesson 2: Advanced Graphics
-    3. [] Lesson 3: Animation
+    3. [] Lesson 3: Animation 
     4. [] Lesson 4: Geo
     5. [] Lesson 5: Testing and Dependency Injection
 
