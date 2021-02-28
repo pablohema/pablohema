@@ -57,14 +57,15 @@ If you do not mind, I will use this *README* to write down all my journey.
     12. [x] [*Extra: Android Room with a View - Kotlin](https://github.com/pablohema/pablohema/tree/main/Extra_RoomWithView)
 
 4. [Advanced Android in Kotlin](https://developer.android.com/courses/kotlin-android-advanced/overview) - _Google Developers Codelabs_ <img src="assets/googleLogo.png" data-canonical-src="assets/kotlinEmoji.svg" width="16" height="16" />
-    1. [] Lesson 1: Notificacions
-    2. [] Lesson 2: Advanced Graphics
-    3. [] Lesson 3: Animation 
-    4. [] Lesson 4: Geo
-    5. [] Lesson 5: Testing and Dependency Injection
+    1. [ ] Lesson 1: Notificacions
+    2. [ ] Lesson 2: Advanced Graphics
+    3. [ ] Lesson 3: Animation 
+    4. [ ] Lesson 4: Geo
+    5. [ ] Lesson 5: Testing and Dependency Injection
 
 5. [To-Do App & Clean Architecture](https://www.udemy.com/course/to-do-app-clean-architecture-android-development-kotlin)
     1. [x] [My ToDo APP](https://github.com/pablohema/ToDo_App)
+    2. [ ] [Modern Food Recipe APP](https://github.com/pablohema/ModernFoodRecipesAPP)
 
 
 <div align="center">...WIP 👷🏻...</div>
